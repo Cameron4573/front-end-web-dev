@@ -1,8 +1,17 @@
 body {
   background: #484848;
-  color: #cccccc;
+  color: #50f148;
+  font-family: sans-serif;
+  font-size: 1em;
 }
 h1{
-  color: #cccccc;
+  color: #ad4ad2;
   font-size: 2em;
+  font-family: sans-serif;
+}
+header{
+  background: #222222;
+  border-style: dashed;
+  border-color: #484848;
+
 }
